@@ -43,3 +43,16 @@ hs_err_pid*
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/scala,metals,bloop,visualstudiocode
+
+
+.DS_Store
+coordinates
+coordinates_org
+coordinates_processed
+errors
+lstm_tasty.py
+out/
+out_all.csv
+resutls.txt
+trains/
+ttmpcords
